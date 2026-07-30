@@ -1,0 +1,7 @@
+# This repo IS the live public site (GitHub Pages) — anything committed and
+# pushed goes public. Keep working junk out of the checkpoint commits.
+.DS_Store
+*.tmp
+*.bak
+*.swp
+drafts/
