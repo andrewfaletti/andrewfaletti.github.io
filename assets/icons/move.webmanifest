@@ -1,0 +1,20 @@
+{
+  "name": "Give to the Faletti Family",
+  "short_name": "Give",
+  "start_url": "../../move.html",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#6e5527",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
